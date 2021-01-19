@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    vertical-align: center;
+    display: flex;
+    width: 100%;
+    height: 90px;
+    background-color: #3D3D3D;
+    border-bottom: 5px solid #6F6F6F;
+    
+}
+.logo {
+    height: 90px;
+    weight: 150px;
+    margin: 0px 50px;
+    
+    border: 3px solid black;
+    vertical-align: center;
+}
+.logo a{
+    color: #B36767;
+    text-decoration: none;
+    text-align: center;
+    font-size: xx-large;
+
+}
+.header ul {
+    display: flex;
+}

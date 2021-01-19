@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    color: #CA6C6C;
+}
+.header {  
+    display: flex;
+    text-align: center;
+    width: 100%;
+    height: 90px;
+    background-color: #3D3D3D;
+    border-bottom: 5px solid #6F6F6F;
+    
+}
+a {
+    
+    text-decoration: none;
+    color: #fff;
+}
+.logo {
+    display: inline-block;
+    height: 50px;
+    weight: 150px;
+    margin: 0px auto;
+    padding: 20px;
+    border: 3px solid black;
+    vertical-align: center;
+}
+.logo a{
+    color: #B36767;
+    font-size: 40px;
+    
+
+}
+.nav {
+    height: px;
+    width: auto;
+    padding: 20px;
+    margin: 0 auto;
+    border: 3px solid black;
+}
+
+.header ul {
+    display: flex;
+}
+
+.nav li{
+    list-style: none;
+    font-size: 30px;
+    padding: 0 30px;
+}
+
+
+
+
+.search {
+    width: 400px;
+    height: 90px;
+    margin: 0 auto;  
+    border: 3px solid black;
+
+}
+
+.serch-button {
+    width: 260px;
+    height: 30px;
+    margin: 20px auto;
+    border-radius: 5px;
+
+}
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    height: 2000px;
+}
+.content {
+
+    width: 800px;
+    height: 400px;
+    margin: 30px auto;
+    border: 3px solid #C3C3C3;
+}
+.asaid {
+    width: 536px;
+    height: 400px;
+    margin: 30px auto;
+    border: 3px solid #C3C3C3;
+}
+.c
